@@ -1,0 +1,12 @@
+.search-filter{
+    height: 6vh;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#print{
+    margin-right: 10px;
+}

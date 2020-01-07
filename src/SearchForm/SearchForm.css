@@ -1,0 +1,30 @@
+.search-form{
+    height: 6vh;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-label {
+    font-size: 20px;
+
+}
+
+#bookSearch{
+    height: 25px;
+    background-color: rgb(255, 248, 190);
+    padding-left: 3px;
+    font-size: large;
+    color: black;
+}
+
+button{
+    height: 27px;
+    width: 80px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    font-size: medium;
+}
